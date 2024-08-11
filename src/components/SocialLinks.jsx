@@ -42,7 +42,6 @@ const SocialLinks = () => {
       ),
       href: "https://shivanshYad4v.github.io/portfolio-gh/Resume.pdf",
       style: "rounded-br-md",
-      download: true,
     },
   ];
 
@@ -61,7 +60,6 @@ const SocialLinks = () => {
             <a
               href={href}
               className="flex justify-between items-center w-full text-white"
-              download={download}
               target="_blank"
               rel="noreferrer"
             >

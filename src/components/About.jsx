@@ -26,7 +26,6 @@ const About = () => {
         <div className="mt-8">
           <a
             href="https://shivanshYad4v.github.io/portfolio-gh/Resume.pdf"
-            download
             className="text-white bg-blue-500 px-6 py-3 my-2 rounded-md hover:bg-blue-600 transition-colors duration-300"
           >
             Resume
