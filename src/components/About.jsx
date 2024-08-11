@@ -29,7 +29,7 @@ const About = () => {
             download
             className="text-white bg-blue-500 px-6 py-3 my-2 rounded-md hover:bg-blue-600 transition-colors duration-300"
           >
-            Download Resume
+            Resume
           </a>
         </div>
       </div>
