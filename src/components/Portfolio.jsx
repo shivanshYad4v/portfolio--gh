@@ -50,6 +50,7 @@ const Portfolio = () => {
                 <a
                   href={live}
                   target="_blank"
+                  rel="noreferrer"
                   className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 "
                 >
                   Demo
@@ -57,6 +58,7 @@ const Portfolio = () => {
                 <a
                   href={github}
                   target="_blank"
+                  rel="noreferrer"
                   className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 "
                 >
                   Code
